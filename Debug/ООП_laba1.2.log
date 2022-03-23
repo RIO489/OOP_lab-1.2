@@ -1,0 +1,13 @@
+﻿  Matrix.cpp
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(26,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(28,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(36,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(56,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(58,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(71,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\RIO\source\repos\ООП_laba1.2\Matrix.cpp(73,21): warning C4018: <: несоответствие типов со знаком и без знака
+  ООП_laba1.2.cpp
+  Создание кода...
+  ООП_laba1.2.vcxproj -> C:\Users\RIO\source\repos\ООП_laba1.2\Debug\ООП_laba1.2.exe
